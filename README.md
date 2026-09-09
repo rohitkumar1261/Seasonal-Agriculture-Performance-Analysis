@@ -4,7 +4,7 @@ An end-to-end data analytics and statistical modeling project designed to invest
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Agricultural activities are heavily influenced by seasonal climate patterns, resource availability, and market dynamics[cite: 3]. Raw agricultural data often fails to directly explain how farm yields, input efficiencies, and profit margins fluctuate across seasons[cite: 3]. 
 
@@ -12,7 +12,7 @@ This project analyzes key agricultural indicators to identify meaningful trends,
 
 ---
 
-## 🎯 Key Objectives
+##  Key Objectives
 
 * **Data Hygiene & Preprocessing**: Clean raw dataset, handle missing variables via statistical imputation, and construct engineered performance features[cite: 3].
 * **Seasonal Trend Identification**: Examine environmental dynamics (rainfall, soil moisture, humidity) and risk factors across Kharif, Rabi, and Zaid cycles[cite: 3].
@@ -21,7 +21,7 @@ This project analyzes key agricultural indicators to identify meaningful trends,
 
 ---
 
-## 🛠️ Tech Stack & Dependencies
+##  Tech Stack & Dependencies
 
 * **Language**: Python 3.x[cite: 3]
 * **Data Processing & Analytics**: `pandas`, `numpy`, `scipy`[cite: 3]
@@ -31,7 +31,7 @@ This project analyzes key agricultural indicators to identify meaningful trends,
 
 ---
 
-## 📈 Key Analysis & Results
+##  Key Analysis & Results
 
 * **Environmental Dynamics**: Kharif exhibits the highest rainfall (~600.9 mm) alongside elevated disease and pest risk scores (>46%)[cite: 3].
 * **Irrigation Efficiency**: Micro-irrigation techniques (Drip and Sprinkler) delivered up to 35% higher water efficiency relative to conventional flood irrigation[cite: 3].
@@ -40,7 +40,7 @@ This project analyzes key agricultural indicators to identify meaningful trends,
 
 ---
 
-## 🚀 Future Scope
+##  Future Scope
 
 * **Machine Learning**: Train predictive regression and classification models (Random Forest, XGBoost) for crop yield and pest outbreak forecasting[cite: 3].
 * **IoT Sensor Integration**: Integrate live telemetry streams (ESP32) for real-time soil moisture and microclimate tracking[cite: 3].
@@ -48,7 +48,7 @@ This project analyzes key agricultural indicators to identify meaningful trends,
 
 ---
 
-## 📄 Repository Structure
+## Repository Structure
 
 ```text
 ├── data/
