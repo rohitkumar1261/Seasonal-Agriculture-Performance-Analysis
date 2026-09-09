@@ -1,6 +1,5 @@
 # ============================================================
 # MAJOR PROJECT: SEASONAL AGRICULTURE PERFORMANCE ANALYSIS
-# Google Colab - Run cells sequentially in ONE kernel/session
 # ============================================================
 
 # ---------------- CELL 1: IMPORT LIBRARIES ----------------
